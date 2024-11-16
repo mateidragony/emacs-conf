@@ -1,1 +1,0 @@
-/home/mateidragony/.emacs.d
